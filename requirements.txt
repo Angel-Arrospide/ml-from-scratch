@@ -1,0 +1,9 @@
+numpy
+jax
+jaxlib
+matplotlib
+seaborn
+plotly
+jupyter
+tqdm
+Pillow
