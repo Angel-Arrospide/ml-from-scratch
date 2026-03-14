@@ -4,4 +4,5 @@ A project dedicated to learning and implementing machine learning algorithms fro
 
 ## Table of Contents
 
-- 01_linear_regression (#ToDo)
+1. [Linear Regression](./01_linear_regression)
+2. Logistic Regression (#ToDo)
